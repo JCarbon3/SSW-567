@@ -1,0 +1,7 @@
+I did not encounter any challenges during this assignment.
+
+The requirements for this assignment are relatively simple, but it is important to think about the order they are implemented in, or else some situations may provide incorrect results.
+
+I did not encounter any challenges with the tools.
+
+When determining the test cases, I wanted to make sure I had test cases that would return all unique results, and if they met the requirements of multiple, the most specific was returned.
