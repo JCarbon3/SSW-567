@@ -15,17 +15,17 @@ jobs:
             pytest --junitxml=test-results/junit.xml HW-02a/Triangle567/TestTriangle.py
       - store_test_results:
           path: test-results
-    
+
   build-and-test-api:
     docker:
-      -image: cimg/python:3.10.2
+      - image: cimg/python:3.10.2
     steps:
-      -checkout
-      -run:
+      - checkout
+      - run:
           command: |
             pip install pytest
             pytest --junitxml=test-results/junit.xml HW-04a/TestGitHubAPI.py
-      -store_test_results:
+      - store_test_results:
           path: test-results
 
 workflows:
