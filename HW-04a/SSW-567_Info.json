@@ -1,0 +1,1738 @@
+[
+    {
+    "sha": "89ac3d83c311505419a05fbb8fef25d74bd6ff0d",
+    "node_id": "C_kwDOH9GbstoAKDg5YWMzZDgzYzMxMTUwNTQxOWEwNWZiYjhmZWYyNWQ3NGJkNmZmMGQ",
+    "commit": {
+    "author": {
+    "name": "Joseph",
+    "email": "Jcarbon3@stevens.edu",
+    "date": "2022-10-13T21:54:39Z"
+    },
+    "committer": {
+    "name": "Joseph",
+    "email": "Jcarbon3@stevens.edu",
+    "date": "2022-10-13T21:54:39Z"
+    },
+    "message": "Edited triangle.py and test_triangle.py for better static code analysis and coverage.",
+    "tree": {
+    "sha": "1ddca827f89f9520bbd1ec58664f2b1b6815a2f7",
+    "url": "https://api.github.com/repos/JCarbon3/SSW-567/git/trees/1ddca827f89f9520bbd1ec58664f2b1b6815a2f7"
+    },
+    "url": "https://api.github.com/repos/JCarbon3/SSW-567/git/commits/89ac3d83c311505419a05fbb8fef25d74bd6ff0d",
+    "comment_count": 0,
+    "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+    }
+    },
+    "url": "https://api.github.com/repos/JCarbon3/SSW-567/commits/89ac3d83c311505419a05fbb8fef25d74bd6ff0d",
+    "html_url": "https://github.com/JCarbon3/SSW-567/commit/89ac3d83c311505419a05fbb8fef25d74bd6ff0d",
+    "comments_url": "https://api.github.com/repos/JCarbon3/SSW-567/commits/89ac3d83c311505419a05fbb8fef25d74bd6ff0d/comments",
+    "author": {
+    "login": "JCarbon3",
+    "id": 98120468,
+    "node_id": "U_kgDOBdkzFA",
+    "avatar_url": "https://avatars.githubusercontent.com/u/98120468?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/JCarbon3",
+    "html_url": "https://github.com/JCarbon3",
+    "followers_url": "https://api.github.com/users/JCarbon3/followers",
+    "following_url": "https://api.github.com/users/JCarbon3/following{/other_user}",
+    "gists_url": "https://api.github.com/users/JCarbon3/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/JCarbon3/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/JCarbon3/subscriptions",
+    "organizations_url": "https://api.github.com/users/JCarbon3/orgs",
+    "repos_url": "https://api.github.com/users/JCarbon3/repos",
+    "events_url": "https://api.github.com/users/JCarbon3/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/JCarbon3/received_events",
+    "type": "User",
+    "site_admin": false
+    },
+    "committer": {
+    "login": "JCarbon3",
+    "id": 98120468,
+    "node_id": "U_kgDOBdkzFA",
+    "avatar_url": "https://avatars.githubusercontent.com/u/98120468?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/JCarbon3",
+    "html_url": "https://github.com/JCarbon3",
+    "followers_url": "https://api.github.com/users/JCarbon3/followers",
+    "following_url": "https://api.github.com/users/JCarbon3/following{/other_user}",
+    "gists_url": "https://api.github.com/users/JCarbon3/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/JCarbon3/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/JCarbon3/subscriptions",
+    "organizations_url": "https://api.github.com/users/JCarbon3/orgs",
+    "repos_url": "https://api.github.com/users/JCarbon3/repos",
+    "events_url": "https://api.github.com/users/JCarbon3/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/JCarbon3/received_events",
+    "type": "User",
+    "site_admin": false
+    },
+    "parents": [
+    {
+    "sha": "6c92dfa75e986bb3698a6cf1cde540138b1e83a6",
+    "url": "https://api.github.com/repos/JCarbon3/SSW-567/commits/6c92dfa75e986bb3698a6cf1cde540138b1e83a6",
+    "html_url": "https://github.com/JCarbon3/SSW-567/commit/6c92dfa75e986bb3698a6cf1cde540138b1e83a6"
+    }
+    ]
+    },
+    {
+    "sha": "6c92dfa75e986bb3698a6cf1cde540138b1e83a6",
+    "node_id": "C_kwDOH9GbstoAKDZjOTJkZmE3NWU5ODZiYjM2OThhNmNmMWNkZTU0MDEzOGIxZTgzYTY",
+    "commit": {
+    "author": {
+    "name": "Joseph",
+    "email": "Jcarbon3@stevens.edu",
+    "date": "2022-10-07T22:17:47Z"
+    },
+    "committer": {
+    "name": "Joseph",
+    "email": "Jcarbon3@stevens.edu",
+    "date": "2022-10-07T22:17:47Z"
+    },
+    "message": "Config changes",
+    "tree": {
+    "sha": "8a84ccb71955630ad0635d5e50afae38d3cda482",
+    "url": "https://api.github.com/repos/JCarbon3/SSW-567/git/trees/8a84ccb71955630ad0635d5e50afae38d3cda482"
+    },
+    "url": "https://api.github.com/repos/JCarbon3/SSW-567/git/commits/6c92dfa75e986bb3698a6cf1cde540138b1e83a6",
+    "comment_count": 0,
+    "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+    }
+    },
+    "url": "https://api.github.com/repos/JCarbon3/SSW-567/commits/6c92dfa75e986bb3698a6cf1cde540138b1e83a6",
+    "html_url": "https://github.com/JCarbon3/SSW-567/commit/6c92dfa75e986bb3698a6cf1cde540138b1e83a6",
+    "comments_url": "https://api.github.com/repos/JCarbon3/SSW-567/commits/6c92dfa75e986bb3698a6cf1cde540138b1e83a6/comments",
+    "author": {
+    "login": "JCarbon3",
+    "id": 98120468,
+    "node_id": "U_kgDOBdkzFA",
+    "avatar_url": "https://avatars.githubusercontent.com/u/98120468?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/JCarbon3",
+    "html_url": "https://github.com/JCarbon3",
+    "followers_url": "https://api.github.com/users/JCarbon3/followers",
+    "following_url": "https://api.github.com/users/JCarbon3/following{/other_user}",
+    "gists_url": "https://api.github.com/users/JCarbon3/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/JCarbon3/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/JCarbon3/subscriptions",
+    "organizations_url": "https://api.github.com/users/JCarbon3/orgs",
+    "repos_url": "https://api.github.com/users/JCarbon3/repos",
+    "events_url": "https://api.github.com/users/JCarbon3/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/JCarbon3/received_events",
+    "type": "User",
+    "site_admin": false
+    },
+    "committer": {
+    "login": "JCarbon3",
+    "id": 98120468,
+    "node_id": "U_kgDOBdkzFA",
+    "avatar_url": "https://avatars.githubusercontent.com/u/98120468?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/JCarbon3",
+    "html_url": "https://github.com/JCarbon3",
+    "followers_url": "https://api.github.com/users/JCarbon3/followers",
+    "following_url": "https://api.github.com/users/JCarbon3/following{/other_user}",
+    "gists_url": "https://api.github.com/users/JCarbon3/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/JCarbon3/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/JCarbon3/subscriptions",
+    "organizations_url": "https://api.github.com/users/JCarbon3/orgs",
+    "repos_url": "https://api.github.com/users/JCarbon3/repos",
+    "events_url": "https://api.github.com/users/JCarbon3/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/JCarbon3/received_events",
+    "type": "User",
+    "site_admin": false
+    },
+    "parents": [
+    {
+    "sha": "c2b149dfd41fab15a85e4ac2a53b5cf442ba8db5",
+    "url": "https://api.github.com/repos/JCarbon3/SSW-567/commits/c2b149dfd41fab15a85e4ac2a53b5cf442ba8db5",
+    "html_url": "https://github.com/JCarbon3/SSW-567/commit/c2b149dfd41fab15a85e4ac2a53b5cf442ba8db5"
+    }
+    ]
+    },
+    {
+    "sha": "c2b149dfd41fab15a85e4ac2a53b5cf442ba8db5",
+    "node_id": "C_kwDOH9GbstoAKGMyYjE0OWRmZDQxZmFiMTVhODVlNGFjMmE1M2I1Y2Y0NDJiYThkYjU",
+    "commit": {
+    "author": {
+    "name": "Joseph",
+    "email": "Jcarbon3@stevens.edu",
+    "date": "2022-10-07T22:16:08Z"
+    },
+    "committer": {
+    "name": "Joseph",
+    "email": "Jcarbon3@stevens.edu",
+    "date": "2022-10-07T22:16:08Z"
+    },
+    "message": "Config changes",
+    "tree": {
+    "sha": "a42aab1f5a28be08185c1e714dc0782f9bfab1c1",
+    "url": "https://api.github.com/repos/JCarbon3/SSW-567/git/trees/a42aab1f5a28be08185c1e714dc0782f9bfab1c1"
+    },
+    "url": "https://api.github.com/repos/JCarbon3/SSW-567/git/commits/c2b149dfd41fab15a85e4ac2a53b5cf442ba8db5",
+    "comment_count": 0,
+    "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+    }
+    },
+    "url": "https://api.github.com/repos/JCarbon3/SSW-567/commits/c2b149dfd41fab15a85e4ac2a53b5cf442ba8db5",
+    "html_url": "https://github.com/JCarbon3/SSW-567/commit/c2b149dfd41fab15a85e4ac2a53b5cf442ba8db5",
+    "comments_url": "https://api.github.com/repos/JCarbon3/SSW-567/commits/c2b149dfd41fab15a85e4ac2a53b5cf442ba8db5/comments",
+    "author": {
+    "login": "JCarbon3",
+    "id": 98120468,
+    "node_id": "U_kgDOBdkzFA",
+    "avatar_url": "https://avatars.githubusercontent.com/u/98120468?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/JCarbon3",
+    "html_url": "https://github.com/JCarbon3",
+    "followers_url": "https://api.github.com/users/JCarbon3/followers",
+    "following_url": "https://api.github.com/users/JCarbon3/following{/other_user}",
+    "gists_url": "https://api.github.com/users/JCarbon3/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/JCarbon3/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/JCarbon3/subscriptions",
+    "organizations_url": "https://api.github.com/users/JCarbon3/orgs",
+    "repos_url": "https://api.github.com/users/JCarbon3/repos",
+    "events_url": "https://api.github.com/users/JCarbon3/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/JCarbon3/received_events",
+    "type": "User",
+    "site_admin": false
+    },
+    "committer": {
+    "login": "JCarbon3",
+    "id": 98120468,
+    "node_id": "U_kgDOBdkzFA",
+    "avatar_url": "https://avatars.githubusercontent.com/u/98120468?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/JCarbon3",
+    "html_url": "https://github.com/JCarbon3",
+    "followers_url": "https://api.github.com/users/JCarbon3/followers",
+    "following_url": "https://api.github.com/users/JCarbon3/following{/other_user}",
+    "gists_url": "https://api.github.com/users/JCarbon3/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/JCarbon3/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/JCarbon3/subscriptions",
+    "organizations_url": "https://api.github.com/users/JCarbon3/orgs",
+    "repos_url": "https://api.github.com/users/JCarbon3/repos",
+    "events_url": "https://api.github.com/users/JCarbon3/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/JCarbon3/received_events",
+    "type": "User",
+    "site_admin": false
+    },
+    "parents": [
+    {
+    "sha": "6386f8f5b805ce67ae0ac6fcc135d79116031982",
+    "url": "https://api.github.com/repos/JCarbon3/SSW-567/commits/6386f8f5b805ce67ae0ac6fcc135d79116031982",
+    "html_url": "https://github.com/JCarbon3/SSW-567/commit/6386f8f5b805ce67ae0ac6fcc135d79116031982"
+    }
+    ]
+    },
+    {
+    "sha": "6386f8f5b805ce67ae0ac6fcc135d79116031982",
+    "node_id": "C_kwDOH9GbstoAKDYzODZmOGY1YjgwNWNlNjdhZTBhYzZmY2MxMzVkNzkxMTYwMzE5ODI",
+    "commit": {
+    "author": {
+    "name": "Joseph",
+    "email": "Jcarbon3@stevens.edu",
+    "date": "2022-10-07T22:13:37Z"
+    },
+    "committer": {
+    "name": "Joseph",
+    "email": "Jcarbon3@stevens.edu",
+    "date": "2022-10-07T22:13:37Z"
+    },
+    "message": "Config changes",
+    "tree": {
+    "sha": "2741b72f7f7111f8f68f08bf853998690b9a3c3e",
+    "url": "https://api.github.com/repos/JCarbon3/SSW-567/git/trees/2741b72f7f7111f8f68f08bf853998690b9a3c3e"
+    },
+    "url": "https://api.github.com/repos/JCarbon3/SSW-567/git/commits/6386f8f5b805ce67ae0ac6fcc135d79116031982",
+    "comment_count": 0,
+    "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+    }
+    },
+    "url": "https://api.github.com/repos/JCarbon3/SSW-567/commits/6386f8f5b805ce67ae0ac6fcc135d79116031982",
+    "html_url": "https://github.com/JCarbon3/SSW-567/commit/6386f8f5b805ce67ae0ac6fcc135d79116031982",
+    "comments_url": "https://api.github.com/repos/JCarbon3/SSW-567/commits/6386f8f5b805ce67ae0ac6fcc135d79116031982/comments",
+    "author": {
+    "login": "JCarbon3",
+    "id": 98120468,
+    "node_id": "U_kgDOBdkzFA",
+    "avatar_url": "https://avatars.githubusercontent.com/u/98120468?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/JCarbon3",
+    "html_url": "https://github.com/JCarbon3",
+    "followers_url": "https://api.github.com/users/JCarbon3/followers",
+    "following_url": "https://api.github.com/users/JCarbon3/following{/other_user}",
+    "gists_url": "https://api.github.com/users/JCarbon3/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/JCarbon3/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/JCarbon3/subscriptions",
+    "organizations_url": "https://api.github.com/users/JCarbon3/orgs",
+    "repos_url": "https://api.github.com/users/JCarbon3/repos",
+    "events_url": "https://api.github.com/users/JCarbon3/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/JCarbon3/received_events",
+    "type": "User",
+    "site_admin": false
+    },
+    "committer": {
+    "login": "JCarbon3",
+    "id": 98120468,
+    "node_id": "U_kgDOBdkzFA",
+    "avatar_url": "https://avatars.githubusercontent.com/u/98120468?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/JCarbon3",
+    "html_url": "https://github.com/JCarbon3",
+    "followers_url": "https://api.github.com/users/JCarbon3/followers",
+    "following_url": "https://api.github.com/users/JCarbon3/following{/other_user}",
+    "gists_url": "https://api.github.com/users/JCarbon3/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/JCarbon3/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/JCarbon3/subscriptions",
+    "organizations_url": "https://api.github.com/users/JCarbon3/orgs",
+    "repos_url": "https://api.github.com/users/JCarbon3/repos",
+    "events_url": "https://api.github.com/users/JCarbon3/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/JCarbon3/received_events",
+    "type": "User",
+    "site_admin": false
+    },
+    "parents": [
+    {
+    "sha": "6609af22bcf7eb7947dcfae78fe539d7e49c85f5",
+    "url": "https://api.github.com/repos/JCarbon3/SSW-567/commits/6609af22bcf7eb7947dcfae78fe539d7e49c85f5",
+    "html_url": "https://github.com/JCarbon3/SSW-567/commit/6609af22bcf7eb7947dcfae78fe539d7e49c85f5"
+    }
+    ]
+    },
+    {
+    "sha": "6609af22bcf7eb7947dcfae78fe539d7e49c85f5",
+    "node_id": "C_kwDOH9GbstoAKDY2MDlhZjIyYmNmN2ViNzk0N2RjZmFlNzhmZTUzOWQ3ZTQ5Yzg1ZjU",
+    "commit": {
+    "author": {
+    "name": "Joseph",
+    "email": "Jcarbon3@stevens.edu",
+    "date": "2022-10-07T21:39:08Z"
+    },
+    "committer": {
+    "name": "Joseph",
+    "email": "Jcarbon3@stevens.edu",
+    "date": "2022-10-07T21:39:08Z"
+    },
+    "message": "Reverted .circleci changes",
+    "tree": {
+    "sha": "82d5e355b1601a33db17b37137cd846e49003bad",
+    "url": "https://api.github.com/repos/JCarbon3/SSW-567/git/trees/82d5e355b1601a33db17b37137cd846e49003bad"
+    },
+    "url": "https://api.github.com/repos/JCarbon3/SSW-567/git/commits/6609af22bcf7eb7947dcfae78fe539d7e49c85f5",
+    "comment_count": 0,
+    "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+    }
+    },
+    "url": "https://api.github.com/repos/JCarbon3/SSW-567/commits/6609af22bcf7eb7947dcfae78fe539d7e49c85f5",
+    "html_url": "https://github.com/JCarbon3/SSW-567/commit/6609af22bcf7eb7947dcfae78fe539d7e49c85f5",
+    "comments_url": "https://api.github.com/repos/JCarbon3/SSW-567/commits/6609af22bcf7eb7947dcfae78fe539d7e49c85f5/comments",
+    "author": {
+    "login": "JCarbon3",
+    "id": 98120468,
+    "node_id": "U_kgDOBdkzFA",
+    "avatar_url": "https://avatars.githubusercontent.com/u/98120468?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/JCarbon3",
+    "html_url": "https://github.com/JCarbon3",
+    "followers_url": "https://api.github.com/users/JCarbon3/followers",
+    "following_url": "https://api.github.com/users/JCarbon3/following{/other_user}",
+    "gists_url": "https://api.github.com/users/JCarbon3/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/JCarbon3/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/JCarbon3/subscriptions",
+    "organizations_url": "https://api.github.com/users/JCarbon3/orgs",
+    "repos_url": "https://api.github.com/users/JCarbon3/repos",
+    "events_url": "https://api.github.com/users/JCarbon3/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/JCarbon3/received_events",
+    "type": "User",
+    "site_admin": false
+    },
+    "committer": {
+    "login": "JCarbon3",
+    "id": 98120468,
+    "node_id": "U_kgDOBdkzFA",
+    "avatar_url": "https://avatars.githubusercontent.com/u/98120468?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/JCarbon3",
+    "html_url": "https://github.com/JCarbon3",
+    "followers_url": "https://api.github.com/users/JCarbon3/followers",
+    "following_url": "https://api.github.com/users/JCarbon3/following{/other_user}",
+    "gists_url": "https://api.github.com/users/JCarbon3/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/JCarbon3/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/JCarbon3/subscriptions",
+    "organizations_url": "https://api.github.com/users/JCarbon3/orgs",
+    "repos_url": "https://api.github.com/users/JCarbon3/repos",
+    "events_url": "https://api.github.com/users/JCarbon3/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/JCarbon3/received_events",
+    "type": "User",
+    "site_admin": false
+    },
+    "parents": [
+    {
+    "sha": "adfebd534b536dd66ae558519a6e14dc082a4ab3",
+    "url": "https://api.github.com/repos/JCarbon3/SSW-567/commits/adfebd534b536dd66ae558519a6e14dc082a4ab3",
+    "html_url": "https://github.com/JCarbon3/SSW-567/commit/adfebd534b536dd66ae558519a6e14dc082a4ab3"
+    }
+    ]
+    },
+    {
+    "sha": "adfebd534b536dd66ae558519a6e14dc082a4ab3",
+    "node_id": "C_kwDOH9GbstoAKGFkZmViZDUzNGI1MzZkZDY2YWU1NTg1MTlhNmUxNGRjMDgyYTRhYjM",
+    "commit": {
+    "author": {
+    "name": "Joseph",
+    "email": "Jcarbon3@stevens.edu",
+    "date": "2022-10-07T21:35:59Z"
+    },
+    "committer": {
+    "name": "Joseph",
+    "email": "Jcarbon3@stevens.edu",
+    "date": "2022-10-07T21:35:59Z"
+    },
+    "message": "Added changes for HW-04a",
+    "tree": {
+    "sha": "39604f0b90b6cde5783bfc3a0ccd54acf179549d",
+    "url": "https://api.github.com/repos/JCarbon3/SSW-567/git/trees/39604f0b90b6cde5783bfc3a0ccd54acf179549d"
+    },
+    "url": "https://api.github.com/repos/JCarbon3/SSW-567/git/commits/adfebd534b536dd66ae558519a6e14dc082a4ab3",
+    "comment_count": 0,
+    "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+    }
+    },
+    "url": "https://api.github.com/repos/JCarbon3/SSW-567/commits/adfebd534b536dd66ae558519a6e14dc082a4ab3",
+    "html_url": "https://github.com/JCarbon3/SSW-567/commit/adfebd534b536dd66ae558519a6e14dc082a4ab3",
+    "comments_url": "https://api.github.com/repos/JCarbon3/SSW-567/commits/adfebd534b536dd66ae558519a6e14dc082a4ab3/comments",
+    "author": {
+    "login": "JCarbon3",
+    "id": 98120468,
+    "node_id": "U_kgDOBdkzFA",
+    "avatar_url": "https://avatars.githubusercontent.com/u/98120468?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/JCarbon3",
+    "html_url": "https://github.com/JCarbon3",
+    "followers_url": "https://api.github.com/users/JCarbon3/followers",
+    "following_url": "https://api.github.com/users/JCarbon3/following{/other_user}",
+    "gists_url": "https://api.github.com/users/JCarbon3/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/JCarbon3/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/JCarbon3/subscriptions",
+    "organizations_url": "https://api.github.com/users/JCarbon3/orgs",
+    "repos_url": "https://api.github.com/users/JCarbon3/repos",
+    "events_url": "https://api.github.com/users/JCarbon3/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/JCarbon3/received_events",
+    "type": "User",
+    "site_admin": false
+    },
+    "committer": {
+    "login": "JCarbon3",
+    "id": 98120468,
+    "node_id": "U_kgDOBdkzFA",
+    "avatar_url": "https://avatars.githubusercontent.com/u/98120468?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/JCarbon3",
+    "html_url": "https://github.com/JCarbon3",
+    "followers_url": "https://api.github.com/users/JCarbon3/followers",
+    "following_url": "https://api.github.com/users/JCarbon3/following{/other_user}",
+    "gists_url": "https://api.github.com/users/JCarbon3/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/JCarbon3/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/JCarbon3/subscriptions",
+    "organizations_url": "https://api.github.com/users/JCarbon3/orgs",
+    "repos_url": "https://api.github.com/users/JCarbon3/repos",
+    "events_url": "https://api.github.com/users/JCarbon3/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/JCarbon3/received_events",
+    "type": "User",
+    "site_admin": false
+    },
+    "parents": [
+    {
+    "sha": "ab2f5fcf36c00cf69d7e15e705adb280f2c9d98c",
+    "url": "https://api.github.com/repos/JCarbon3/SSW-567/commits/ab2f5fcf36c00cf69d7e15e705adb280f2c9d98c",
+    "html_url": "https://github.com/JCarbon3/SSW-567/commit/ab2f5fcf36c00cf69d7e15e705adb280f2c9d98c"
+    }
+    ]
+    },
+    {
+    "sha": "ab2f5fcf36c00cf69d7e15e705adb280f2c9d98c",
+    "node_id": "C_kwDOH9GbstoAKGFiMmY1ZmNmMzZjMDBjZjY5ZDdlMTVlNzA1YWRiMjgwZjJjOWQ5OGM",
+    "commit": {
+    "author": {
+    "name": "Joseph",
+    "email": "Jcarbon3@stevens.edu",
+    "date": "2022-10-07T20:46:20Z"
+    },
+    "committer": {
+    "name": "Joseph",
+    "email": "Jcarbon3@stevens.edu",
+    "date": "2022-10-07T20:46:20Z"
+    },
+    "message": "Further config changes",
+    "tree": {
+    "sha": "6d669a8332b3760ac3e6601e852a488a0d36a7e7",
+    "url": "https://api.github.com/repos/JCarbon3/SSW-567/git/trees/6d669a8332b3760ac3e6601e852a488a0d36a7e7"
+    },
+    "url": "https://api.github.com/repos/JCarbon3/SSW-567/git/commits/ab2f5fcf36c00cf69d7e15e705adb280f2c9d98c",
+    "comment_count": 0,
+    "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+    }
+    },
+    "url": "https://api.github.com/repos/JCarbon3/SSW-567/commits/ab2f5fcf36c00cf69d7e15e705adb280f2c9d98c",
+    "html_url": "https://github.com/JCarbon3/SSW-567/commit/ab2f5fcf36c00cf69d7e15e705adb280f2c9d98c",
+    "comments_url": "https://api.github.com/repos/JCarbon3/SSW-567/commits/ab2f5fcf36c00cf69d7e15e705adb280f2c9d98c/comments",
+    "author": {
+    "login": "JCarbon3",
+    "id": 98120468,
+    "node_id": "U_kgDOBdkzFA",
+    "avatar_url": "https://avatars.githubusercontent.com/u/98120468?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/JCarbon3",
+    "html_url": "https://github.com/JCarbon3",
+    "followers_url": "https://api.github.com/users/JCarbon3/followers",
+    "following_url": "https://api.github.com/users/JCarbon3/following{/other_user}",
+    "gists_url": "https://api.github.com/users/JCarbon3/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/JCarbon3/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/JCarbon3/subscriptions",
+    "organizations_url": "https://api.github.com/users/JCarbon3/orgs",
+    "repos_url": "https://api.github.com/users/JCarbon3/repos",
+    "events_url": "https://api.github.com/users/JCarbon3/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/JCarbon3/received_events",
+    "type": "User",
+    "site_admin": false
+    },
+    "committer": {
+    "login": "JCarbon3",
+    "id": 98120468,
+    "node_id": "U_kgDOBdkzFA",
+    "avatar_url": "https://avatars.githubusercontent.com/u/98120468?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/JCarbon3",
+    "html_url": "https://github.com/JCarbon3",
+    "followers_url": "https://api.github.com/users/JCarbon3/followers",
+    "following_url": "https://api.github.com/users/JCarbon3/following{/other_user}",
+    "gists_url": "https://api.github.com/users/JCarbon3/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/JCarbon3/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/JCarbon3/subscriptions",
+    "organizations_url": "https://api.github.com/users/JCarbon3/orgs",
+    "repos_url": "https://api.github.com/users/JCarbon3/repos",
+    "events_url": "https://api.github.com/users/JCarbon3/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/JCarbon3/received_events",
+    "type": "User",
+    "site_admin": false
+    },
+    "parents": [
+    {
+    "sha": "0c2762749940d2572126e3d63c05fb46aaa50da7",
+    "url": "https://api.github.com/repos/JCarbon3/SSW-567/commits/0c2762749940d2572126e3d63c05fb46aaa50da7",
+    "html_url": "https://github.com/JCarbon3/SSW-567/commit/0c2762749940d2572126e3d63c05fb46aaa50da7"
+    }
+    ]
+    },
+    {
+    "sha": "0c2762749940d2572126e3d63c05fb46aaa50da7",
+    "node_id": "C_kwDOH9GbstoAKDBjMjc2Mjc0OTk0MGQyNTcyMTI2ZTNkNjNjMDVmYjQ2YWFhNTBkYTc",
+    "commit": {
+    "author": {
+    "name": "Joseph",
+    "email": "Jcarbon3@stevens.edu",
+    "date": "2022-10-07T20:41:56Z"
+    },
+    "committer": {
+    "name": "Joseph",
+    "email": "Jcarbon3@stevens.edu",
+    "date": "2022-10-07T20:41:56Z"
+    },
+    "message": "Attempted to fix config.yml by making it exactly like example",
+    "tree": {
+    "sha": "ad6a4ace9c6beee208bec79b7fcb3784e7eec9c6",
+    "url": "https://api.github.com/repos/JCarbon3/SSW-567/git/trees/ad6a4ace9c6beee208bec79b7fcb3784e7eec9c6"
+    },
+    "url": "https://api.github.com/repos/JCarbon3/SSW-567/git/commits/0c2762749940d2572126e3d63c05fb46aaa50da7",
+    "comment_count": 0,
+    "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+    }
+    },
+    "url": "https://api.github.com/repos/JCarbon3/SSW-567/commits/0c2762749940d2572126e3d63c05fb46aaa50da7",
+    "html_url": "https://github.com/JCarbon3/SSW-567/commit/0c2762749940d2572126e3d63c05fb46aaa50da7",
+    "comments_url": "https://api.github.com/repos/JCarbon3/SSW-567/commits/0c2762749940d2572126e3d63c05fb46aaa50da7/comments",
+    "author": {
+    "login": "JCarbon3",
+    "id": 98120468,
+    "node_id": "U_kgDOBdkzFA",
+    "avatar_url": "https://avatars.githubusercontent.com/u/98120468?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/JCarbon3",
+    "html_url": "https://github.com/JCarbon3",
+    "followers_url": "https://api.github.com/users/JCarbon3/followers",
+    "following_url": "https://api.github.com/users/JCarbon3/following{/other_user}",
+    "gists_url": "https://api.github.com/users/JCarbon3/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/JCarbon3/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/JCarbon3/subscriptions",
+    "organizations_url": "https://api.github.com/users/JCarbon3/orgs",
+    "repos_url": "https://api.github.com/users/JCarbon3/repos",
+    "events_url": "https://api.github.com/users/JCarbon3/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/JCarbon3/received_events",
+    "type": "User",
+    "site_admin": false
+    },
+    "committer": {
+    "login": "JCarbon3",
+    "id": 98120468,
+    "node_id": "U_kgDOBdkzFA",
+    "avatar_url": "https://avatars.githubusercontent.com/u/98120468?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/JCarbon3",
+    "html_url": "https://github.com/JCarbon3",
+    "followers_url": "https://api.github.com/users/JCarbon3/followers",
+    "following_url": "https://api.github.com/users/JCarbon3/following{/other_user}",
+    "gists_url": "https://api.github.com/users/JCarbon3/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/JCarbon3/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/JCarbon3/subscriptions",
+    "organizations_url": "https://api.github.com/users/JCarbon3/orgs",
+    "repos_url": "https://api.github.com/users/JCarbon3/repos",
+    "events_url": "https://api.github.com/users/JCarbon3/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/JCarbon3/received_events",
+    "type": "User",
+    "site_admin": false
+    },
+    "parents": [
+    {
+    "sha": "45ecbd510973bda60feb2d5e26271e099c74cebf",
+    "url": "https://api.github.com/repos/JCarbon3/SSW-567/commits/45ecbd510973bda60feb2d5e26271e099c74cebf",
+    "html_url": "https://github.com/JCarbon3/SSW-567/commit/45ecbd510973bda60feb2d5e26271e099c74cebf"
+    }
+    ]
+    },
+    {
+    "sha": "45ecbd510973bda60feb2d5e26271e099c74cebf",
+    "node_id": "C_kwDOH9GbstoAKDQ1ZWNiZDUxMDk3M2JkYTYwZmViMmQ1ZTI2MjcxZTA5OWM3NGNlYmY",
+    "commit": {
+    "author": {
+    "name": "Joseph",
+    "email": "Jcarbon3@stevens.edu",
+    "date": "2022-10-07T20:37:39Z"
+    },
+    "committer": {
+    "name": "Joseph",
+    "email": "Jcarbon3@stevens.edu",
+    "date": "2022-10-07T20:37:39Z"
+    },
+    "message": "Applied changes to .circleci as they did not commit initially",
+    "tree": {
+    "sha": "7ab6ca5129ea3d046db39d0f110822c7b3748c4c",
+    "url": "https://api.github.com/repos/JCarbon3/SSW-567/git/trees/7ab6ca5129ea3d046db39d0f110822c7b3748c4c"
+    },
+    "url": "https://api.github.com/repos/JCarbon3/SSW-567/git/commits/45ecbd510973bda60feb2d5e26271e099c74cebf",
+    "comment_count": 0,
+    "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+    }
+    },
+    "url": "https://api.github.com/repos/JCarbon3/SSW-567/commits/45ecbd510973bda60feb2d5e26271e099c74cebf",
+    "html_url": "https://github.com/JCarbon3/SSW-567/commit/45ecbd510973bda60feb2d5e26271e099c74cebf",
+    "comments_url": "https://api.github.com/repos/JCarbon3/SSW-567/commits/45ecbd510973bda60feb2d5e26271e099c74cebf/comments",
+    "author": {
+    "login": "JCarbon3",
+    "id": 98120468,
+    "node_id": "U_kgDOBdkzFA",
+    "avatar_url": "https://avatars.githubusercontent.com/u/98120468?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/JCarbon3",
+    "html_url": "https://github.com/JCarbon3",
+    "followers_url": "https://api.github.com/users/JCarbon3/followers",
+    "following_url": "https://api.github.com/users/JCarbon3/following{/other_user}",
+    "gists_url": "https://api.github.com/users/JCarbon3/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/JCarbon3/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/JCarbon3/subscriptions",
+    "organizations_url": "https://api.github.com/users/JCarbon3/orgs",
+    "repos_url": "https://api.github.com/users/JCarbon3/repos",
+    "events_url": "https://api.github.com/users/JCarbon3/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/JCarbon3/received_events",
+    "type": "User",
+    "site_admin": false
+    },
+    "committer": {
+    "login": "JCarbon3",
+    "id": 98120468,
+    "node_id": "U_kgDOBdkzFA",
+    "avatar_url": "https://avatars.githubusercontent.com/u/98120468?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/JCarbon3",
+    "html_url": "https://github.com/JCarbon3",
+    "followers_url": "https://api.github.com/users/JCarbon3/followers",
+    "following_url": "https://api.github.com/users/JCarbon3/following{/other_user}",
+    "gists_url": "https://api.github.com/users/JCarbon3/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/JCarbon3/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/JCarbon3/subscriptions",
+    "organizations_url": "https://api.github.com/users/JCarbon3/orgs",
+    "repos_url": "https://api.github.com/users/JCarbon3/repos",
+    "events_url": "https://api.github.com/users/JCarbon3/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/JCarbon3/received_events",
+    "type": "User",
+    "site_admin": false
+    },
+    "parents": [
+    {
+    "sha": "69041edcebcd3be6cd1cd6ee4bc6dcb2f5235a55",
+    "url": "https://api.github.com/repos/JCarbon3/SSW-567/commits/69041edcebcd3be6cd1cd6ee4bc6dcb2f5235a55",
+    "html_url": "https://github.com/JCarbon3/SSW-567/commit/69041edcebcd3be6cd1cd6ee4bc6dcb2f5235a55"
+    }
+    ]
+    },
+    {
+    "sha": "69041edcebcd3be6cd1cd6ee4bc6dcb2f5235a55",
+    "node_id": "C_kwDOH9GbstoAKDY5MDQxZWRjZWJjZDNiZTZjZDFjZDZlZTRiYzZkY2IyZjUyMzVhNTU",
+    "commit": {
+    "author": {
+    "name": "Joseph",
+    "email": "Jcarbon3@stevens.edu",
+    "date": "2022-10-07T20:34:09Z"
+    },
+    "committer": {
+    "name": "Joseph",
+    "email": "Jcarbon3@stevens.edu",
+    "date": "2022-10-07T20:34:09Z"
+    },
+    "message": "Changes for HW-04a",
+    "tree": {
+    "sha": "af44d945264023d56aa4eaa014c0864974c6f6ed",
+    "url": "https://api.github.com/repos/JCarbon3/SSW-567/git/trees/af44d945264023d56aa4eaa014c0864974c6f6ed"
+    },
+    "url": "https://api.github.com/repos/JCarbon3/SSW-567/git/commits/69041edcebcd3be6cd1cd6ee4bc6dcb2f5235a55",
+    "comment_count": 0,
+    "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+    }
+    },
+    "url": "https://api.github.com/repos/JCarbon3/SSW-567/commits/69041edcebcd3be6cd1cd6ee4bc6dcb2f5235a55",
+    "html_url": "https://github.com/JCarbon3/SSW-567/commit/69041edcebcd3be6cd1cd6ee4bc6dcb2f5235a55",
+    "comments_url": "https://api.github.com/repos/JCarbon3/SSW-567/commits/69041edcebcd3be6cd1cd6ee4bc6dcb2f5235a55/comments",
+    "author": {
+    "login": "JCarbon3",
+    "id": 98120468,
+    "node_id": "U_kgDOBdkzFA",
+    "avatar_url": "https://avatars.githubusercontent.com/u/98120468?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/JCarbon3",
+    "html_url": "https://github.com/JCarbon3",
+    "followers_url": "https://api.github.com/users/JCarbon3/followers",
+    "following_url": "https://api.github.com/users/JCarbon3/following{/other_user}",
+    "gists_url": "https://api.github.com/users/JCarbon3/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/JCarbon3/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/JCarbon3/subscriptions",
+    "organizations_url": "https://api.github.com/users/JCarbon3/orgs",
+    "repos_url": "https://api.github.com/users/JCarbon3/repos",
+    "events_url": "https://api.github.com/users/JCarbon3/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/JCarbon3/received_events",
+    "type": "User",
+    "site_admin": false
+    },
+    "committer": {
+    "login": "JCarbon3",
+    "id": 98120468,
+    "node_id": "U_kgDOBdkzFA",
+    "avatar_url": "https://avatars.githubusercontent.com/u/98120468?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/JCarbon3",
+    "html_url": "https://github.com/JCarbon3",
+    "followers_url": "https://api.github.com/users/JCarbon3/followers",
+    "following_url": "https://api.github.com/users/JCarbon3/following{/other_user}",
+    "gists_url": "https://api.github.com/users/JCarbon3/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/JCarbon3/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/JCarbon3/subscriptions",
+    "organizations_url": "https://api.github.com/users/JCarbon3/orgs",
+    "repos_url": "https://api.github.com/users/JCarbon3/repos",
+    "events_url": "https://api.github.com/users/JCarbon3/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/JCarbon3/received_events",
+    "type": "User",
+    "site_admin": false
+    },
+    "parents": [
+    {
+    "sha": "91e3f733c23d82045d27e4c656b1897df4290d8d",
+    "url": "https://api.github.com/repos/JCarbon3/SSW-567/commits/91e3f733c23d82045d27e4c656b1897df4290d8d",
+    "html_url": "https://github.com/JCarbon3/SSW-567/commit/91e3f733c23d82045d27e4c656b1897df4290d8d"
+    }
+    ]
+    },
+    {
+    "sha": "91e3f733c23d82045d27e4c656b1897df4290d8d",
+    "node_id": "C_kwDOH9GbstoAKDkxZTNmNzMzYzIzZDgyMDQ1ZDI3ZTRjNjU2YjE4OTdkZjQyOTBkOGQ",
+    "commit": {
+    "author": {
+    "name": "Joseph",
+    "email": "Jcarbon3@stevens.edu",
+    "date": "2022-09-30T20:29:44Z"
+    },
+    "committer": {
+    "name": "Joseph",
+    "email": "Jcarbon3@stevens.edu",
+    "date": "2022-09-30T20:29:44Z"
+    },
+    "message": "Added build badge to README.md",
+    "tree": {
+    "sha": "0fb1f4219481a0a39176d5efe5060714f4adaca5",
+    "url": "https://api.github.com/repos/JCarbon3/SSW-567/git/trees/0fb1f4219481a0a39176d5efe5060714f4adaca5"
+    },
+    "url": "https://api.github.com/repos/JCarbon3/SSW-567/git/commits/91e3f733c23d82045d27e4c656b1897df4290d8d",
+    "comment_count": 0,
+    "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+    }
+    },
+    "url": "https://api.github.com/repos/JCarbon3/SSW-567/commits/91e3f733c23d82045d27e4c656b1897df4290d8d",
+    "html_url": "https://github.com/JCarbon3/SSW-567/commit/91e3f733c23d82045d27e4c656b1897df4290d8d",
+    "comments_url": "https://api.github.com/repos/JCarbon3/SSW-567/commits/91e3f733c23d82045d27e4c656b1897df4290d8d/comments",
+    "author": {
+    "login": "JCarbon3",
+    "id": 98120468,
+    "node_id": "U_kgDOBdkzFA",
+    "avatar_url": "https://avatars.githubusercontent.com/u/98120468?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/JCarbon3",
+    "html_url": "https://github.com/JCarbon3",
+    "followers_url": "https://api.github.com/users/JCarbon3/followers",
+    "following_url": "https://api.github.com/users/JCarbon3/following{/other_user}",
+    "gists_url": "https://api.github.com/users/JCarbon3/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/JCarbon3/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/JCarbon3/subscriptions",
+    "organizations_url": "https://api.github.com/users/JCarbon3/orgs",
+    "repos_url": "https://api.github.com/users/JCarbon3/repos",
+    "events_url": "https://api.github.com/users/JCarbon3/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/JCarbon3/received_events",
+    "type": "User",
+    "site_admin": false
+    },
+    "committer": {
+    "login": "JCarbon3",
+    "id": 98120468,
+    "node_id": "U_kgDOBdkzFA",
+    "avatar_url": "https://avatars.githubusercontent.com/u/98120468?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/JCarbon3",
+    "html_url": "https://github.com/JCarbon3",
+    "followers_url": "https://api.github.com/users/JCarbon3/followers",
+    "following_url": "https://api.github.com/users/JCarbon3/following{/other_user}",
+    "gists_url": "https://api.github.com/users/JCarbon3/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/JCarbon3/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/JCarbon3/subscriptions",
+    "organizations_url": "https://api.github.com/users/JCarbon3/orgs",
+    "repos_url": "https://api.github.com/users/JCarbon3/repos",
+    "events_url": "https://api.github.com/users/JCarbon3/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/JCarbon3/received_events",
+    "type": "User",
+    "site_admin": false
+    },
+    "parents": [
+    {
+    "sha": "892783cdf1582f7f28c28c92ca215e2806705360",
+    "url": "https://api.github.com/repos/JCarbon3/SSW-567/commits/892783cdf1582f7f28c28c92ca215e2806705360",
+    "html_url": "https://github.com/JCarbon3/SSW-567/commit/892783cdf1582f7f28c28c92ca215e2806705360"
+    }
+    ]
+    },
+    {
+    "sha": "892783cdf1582f7f28c28c92ca215e2806705360",
+    "node_id": "C_kwDOH9GbstoAKDg5Mjc4M2NkZjE1ODJmN2YyOGMyOGM5MmNhMjE1ZTI4MDY3MDUzNjA",
+    "commit": {
+    "author": {
+    "name": "Joseph",
+    "email": "Jcarbon3@stevens.edu",
+    "date": "2022-09-30T20:26:20Z"
+    },
+    "committer": {
+    "name": "Joseph",
+    "email": "Jcarbon3@stevens.edu",
+    "date": "2022-09-30T20:26:20Z"
+    },
+    "message": "Added results.xml and edited config.yml",
+    "tree": {
+    "sha": "e3b4102407398b2e2bb73719d2edaf046c36d0f8",
+    "url": "https://api.github.com/repos/JCarbon3/SSW-567/git/trees/e3b4102407398b2e2bb73719d2edaf046c36d0f8"
+    },
+    "url": "https://api.github.com/repos/JCarbon3/SSW-567/git/commits/892783cdf1582f7f28c28c92ca215e2806705360",
+    "comment_count": 0,
+    "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+    }
+    },
+    "url": "https://api.github.com/repos/JCarbon3/SSW-567/commits/892783cdf1582f7f28c28c92ca215e2806705360",
+    "html_url": "https://github.com/JCarbon3/SSW-567/commit/892783cdf1582f7f28c28c92ca215e2806705360",
+    "comments_url": "https://api.github.com/repos/JCarbon3/SSW-567/commits/892783cdf1582f7f28c28c92ca215e2806705360/comments",
+    "author": {
+    "login": "JCarbon3",
+    "id": 98120468,
+    "node_id": "U_kgDOBdkzFA",
+    "avatar_url": "https://avatars.githubusercontent.com/u/98120468?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/JCarbon3",
+    "html_url": "https://github.com/JCarbon3",
+    "followers_url": "https://api.github.com/users/JCarbon3/followers",
+    "following_url": "https://api.github.com/users/JCarbon3/following{/other_user}",
+    "gists_url": "https://api.github.com/users/JCarbon3/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/JCarbon3/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/JCarbon3/subscriptions",
+    "organizations_url": "https://api.github.com/users/JCarbon3/orgs",
+    "repos_url": "https://api.github.com/users/JCarbon3/repos",
+    "events_url": "https://api.github.com/users/JCarbon3/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/JCarbon3/received_events",
+    "type": "User",
+    "site_admin": false
+    },
+    "committer": {
+    "login": "JCarbon3",
+    "id": 98120468,
+    "node_id": "U_kgDOBdkzFA",
+    "avatar_url": "https://avatars.githubusercontent.com/u/98120468?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/JCarbon3",
+    "html_url": "https://github.com/JCarbon3",
+    "followers_url": "https://api.github.com/users/JCarbon3/followers",
+    "following_url": "https://api.github.com/users/JCarbon3/following{/other_user}",
+    "gists_url": "https://api.github.com/users/JCarbon3/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/JCarbon3/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/JCarbon3/subscriptions",
+    "organizations_url": "https://api.github.com/users/JCarbon3/orgs",
+    "repos_url": "https://api.github.com/users/JCarbon3/repos",
+    "events_url": "https://api.github.com/users/JCarbon3/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/JCarbon3/received_events",
+    "type": "User",
+    "site_admin": false
+    },
+    "parents": [
+    {
+    "sha": "c160cd7d528cd554bf2622111a7d09405ed24c86",
+    "url": "https://api.github.com/repos/JCarbon3/SSW-567/commits/c160cd7d528cd554bf2622111a7d09405ed24c86",
+    "html_url": "https://github.com/JCarbon3/SSW-567/commit/c160cd7d528cd554bf2622111a7d09405ed24c86"
+    }
+    ]
+    },
+    {
+    "sha": "c160cd7d528cd554bf2622111a7d09405ed24c86",
+    "node_id": "C_kwDOH9GbstoAKGMxNjBjZDdkNTI4Y2Q1NTRiZjI2MjIxMTFhN2QwOTQwNWVkMjRjODY",
+    "commit": {
+    "author": {
+    "name": "JCarbon3",
+    "email": "98120468+JCarbon3@users.noreply.github.com",
+    "date": "2022-09-30T20:13:40Z"
+    },
+    "committer": {
+    "name": "GitHub",
+    "email": "noreply@github.com",
+    "date": "2022-09-30T20:13:40Z"
+    },
+    "message": "Merge pull request #1 from JCarbon3/circleci-project-setup\n\nAdd .circleci/config.yml",
+    "tree": {
+    "sha": "26d84dda6fcad8a14eaf1093d4ba6e3b2044a352",
+    "url": "https://api.github.com/repos/JCarbon3/SSW-567/git/trees/26d84dda6fcad8a14eaf1093d4ba6e3b2044a352"
+    },
+    "url": "https://api.github.com/repos/JCarbon3/SSW-567/git/commits/c160cd7d528cd554bf2622111a7d09405ed24c86",
+    "comment_count": 0,
+    "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJjN030CRBK7hj4Ov3rIwAAZzkIAAuEb1+QLfWksMpOzBjfPBny\nagL8WWNU2w3ZgrVr196srwNm4/wXDqRnks2STeyfE1qu2Ut7iVBuY02fjzXs1C7D\nWEJ7ql2GUw5il5JFvv1sN+XWclqJrrO4q9etQJndSg1RDScPlJ4nDOiAnLkwXri2\nkOxSBpCM+fZzlIoQbX/giNKieuW1ZNXuZehRVO5mk4z/upfBDvOyCqgdhvRV0MQJ\nPBZ4tbqtFOl0ySv/YjzXNkXd/Yc+bcr1SDNL4rB9Z42xjfBxovcwCTvjSQmz3f4c\nLHA/wrmEr32KFIWV3I84jBCeiBE3P9KjB4F5Bv19nO6b/P1an0NC8MtxQgEvfaY=\n=QzuB\n-----END PGP SIGNATURE-----\n",
+    "payload": "tree 26d84dda6fcad8a14eaf1093d4ba6e3b2044a352\nparent 485c9a4b9309ce4ab3264d09d0d4790ff3183cbc\nparent 1de37ec84cfc1b3d45b43316d872ebab055b9ae0\nauthor JCarbon3 <98120468+JCarbon3@users.noreply.github.com> 1664568820 -0400\ncommitter GitHub <noreply@github.com> 1664568820 -0400\n\nMerge pull request #1 from JCarbon3/circleci-project-setup\n\nAdd .circleci/config.yml"
+    }
+    },
+    "url": "https://api.github.com/repos/JCarbon3/SSW-567/commits/c160cd7d528cd554bf2622111a7d09405ed24c86",
+    "html_url": "https://github.com/JCarbon3/SSW-567/commit/c160cd7d528cd554bf2622111a7d09405ed24c86",
+    "comments_url": "https://api.github.com/repos/JCarbon3/SSW-567/commits/c160cd7d528cd554bf2622111a7d09405ed24c86/comments",
+    "author": {
+    "login": "JCarbon3",
+    "id": 98120468,
+    "node_id": "U_kgDOBdkzFA",
+    "avatar_url": "https://avatars.githubusercontent.com/u/98120468?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/JCarbon3",
+    "html_url": "https://github.com/JCarbon3",
+    "followers_url": "https://api.github.com/users/JCarbon3/followers",
+    "following_url": "https://api.github.com/users/JCarbon3/following{/other_user}",
+    "gists_url": "https://api.github.com/users/JCarbon3/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/JCarbon3/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/JCarbon3/subscriptions",
+    "organizations_url": "https://api.github.com/users/JCarbon3/orgs",
+    "repos_url": "https://api.github.com/users/JCarbon3/repos",
+    "events_url": "https://api.github.com/users/JCarbon3/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/JCarbon3/received_events",
+    "type": "User",
+    "site_admin": false
+    },
+    "committer": {
+    "login": "web-flow",
+    "id": 19864447,
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/web-flow",
+    "html_url": "https://github.com/web-flow",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "type": "User",
+    "site_admin": false
+    },
+    "parents": [
+    {
+    "sha": "485c9a4b9309ce4ab3264d09d0d4790ff3183cbc",
+    "url": "https://api.github.com/repos/JCarbon3/SSW-567/commits/485c9a4b9309ce4ab3264d09d0d4790ff3183cbc",
+    "html_url": "https://github.com/JCarbon3/SSW-567/commit/485c9a4b9309ce4ab3264d09d0d4790ff3183cbc"
+    },
+    {
+    "sha": "1de37ec84cfc1b3d45b43316d872ebab055b9ae0",
+    "url": "https://api.github.com/repos/JCarbon3/SSW-567/commits/1de37ec84cfc1b3d45b43316d872ebab055b9ae0",
+    "html_url": "https://github.com/JCarbon3/SSW-567/commit/1de37ec84cfc1b3d45b43316d872ebab055b9ae0"
+    }
+    ]
+    },
+    {
+    "sha": "1de37ec84cfc1b3d45b43316d872ebab055b9ae0",
+    "node_id": "C_kwDOH9GbstoAKDFkZTM3ZWM4NGNmYzFiM2Q0NWI0MzMxNmQ4NzJlYmFiMDU1YjlhZTA",
+    "commit": {
+    "author": {
+    "name": "JCarbon3",
+    "email": "98120468+JCarbon3@users.noreply.github.com",
+    "date": "2022-09-30T20:11:27Z"
+    },
+    "committer": {
+    "name": "JCarbon3",
+    "email": "98120468+JCarbon3@users.noreply.github.com",
+    "date": "2022-09-30T20:11:27Z"
+    },
+    "message": "Add .circleci/config.yml",
+    "tree": {
+    "sha": "26d84dda6fcad8a14eaf1093d4ba6e3b2044a352",
+    "url": "https://api.github.com/repos/JCarbon3/SSW-567/git/trees/26d84dda6fcad8a14eaf1093d4ba6e3b2044a352"
+    },
+    "url": "https://api.github.com/repos/JCarbon3/SSW-567/git/commits/1de37ec84cfc1b3d45b43316d872ebab055b9ae0",
+    "comment_count": 0,
+    "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+    }
+    },
+    "url": "https://api.github.com/repos/JCarbon3/SSW-567/commits/1de37ec84cfc1b3d45b43316d872ebab055b9ae0",
+    "html_url": "https://github.com/JCarbon3/SSW-567/commit/1de37ec84cfc1b3d45b43316d872ebab055b9ae0",
+    "comments_url": "https://api.github.com/repos/JCarbon3/SSW-567/commits/1de37ec84cfc1b3d45b43316d872ebab055b9ae0/comments",
+    "author": {
+    "login": "JCarbon3",
+    "id": 98120468,
+    "node_id": "U_kgDOBdkzFA",
+    "avatar_url": "https://avatars.githubusercontent.com/u/98120468?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/JCarbon3",
+    "html_url": "https://github.com/JCarbon3",
+    "followers_url": "https://api.github.com/users/JCarbon3/followers",
+    "following_url": "https://api.github.com/users/JCarbon3/following{/other_user}",
+    "gists_url": "https://api.github.com/users/JCarbon3/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/JCarbon3/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/JCarbon3/subscriptions",
+    "organizations_url": "https://api.github.com/users/JCarbon3/orgs",
+    "repos_url": "https://api.github.com/users/JCarbon3/repos",
+    "events_url": "https://api.github.com/users/JCarbon3/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/JCarbon3/received_events",
+    "type": "User",
+    "site_admin": false
+    },
+    "committer": {
+    "login": "JCarbon3",
+    "id": 98120468,
+    "node_id": "U_kgDOBdkzFA",
+    "avatar_url": "https://avatars.githubusercontent.com/u/98120468?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/JCarbon3",
+    "html_url": "https://github.com/JCarbon3",
+    "followers_url": "https://api.github.com/users/JCarbon3/followers",
+    "following_url": "https://api.github.com/users/JCarbon3/following{/other_user}",
+    "gists_url": "https://api.github.com/users/JCarbon3/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/JCarbon3/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/JCarbon3/subscriptions",
+    "organizations_url": "https://api.github.com/users/JCarbon3/orgs",
+    "repos_url": "https://api.github.com/users/JCarbon3/repos",
+    "events_url": "https://api.github.com/users/JCarbon3/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/JCarbon3/received_events",
+    "type": "User",
+    "site_admin": false
+    },
+    "parents": [
+    {
+    "sha": "485c9a4b9309ce4ab3264d09d0d4790ff3183cbc",
+    "url": "https://api.github.com/repos/JCarbon3/SSW-567/commits/485c9a4b9309ce4ab3264d09d0d4790ff3183cbc",
+    "html_url": "https://github.com/JCarbon3/SSW-567/commit/485c9a4b9309ce4ab3264d09d0d4790ff3183cbc"
+    }
+    ]
+    },
+    {
+    "sha": "485c9a4b9309ce4ab3264d09d0d4790ff3183cbc",
+    "node_id": "C_kwDOH9GbstoAKDQ4NWM5YTRiOTMwOWNlNGFiMzI2NGQwOWQwZDQ3OTBmZjMxODNjYmM",
+    "commit": {
+    "author": {
+    "name": "Joseph",
+    "email": "Jcarbon3@stevens.edu",
+    "date": "2022-09-22T01:40:16Z"
+    },
+    "committer": {
+    "name": "Joseph",
+    "email": "Jcarbon3@stevens.edu",
+    "date": "2022-09-22T01:40:16Z"
+    },
+    "message": "Added test cases to TestTriangle.py and used the results to fix errors in Triangle.py",
+    "tree": {
+    "sha": "58e6c76d7f1a2867711f0a43d08dbed57640a19f",
+    "url": "https://api.github.com/repos/JCarbon3/SSW-567/git/trees/58e6c76d7f1a2867711f0a43d08dbed57640a19f"
+    },
+    "url": "https://api.github.com/repos/JCarbon3/SSW-567/git/commits/485c9a4b9309ce4ab3264d09d0d4790ff3183cbc",
+    "comment_count": 0,
+    "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+    }
+    },
+    "url": "https://api.github.com/repos/JCarbon3/SSW-567/commits/485c9a4b9309ce4ab3264d09d0d4790ff3183cbc",
+    "html_url": "https://github.com/JCarbon3/SSW-567/commit/485c9a4b9309ce4ab3264d09d0d4790ff3183cbc",
+    "comments_url": "https://api.github.com/repos/JCarbon3/SSW-567/commits/485c9a4b9309ce4ab3264d09d0d4790ff3183cbc/comments",
+    "author": {
+    "login": "JCarbon3",
+    "id": 98120468,
+    "node_id": "U_kgDOBdkzFA",
+    "avatar_url": "https://avatars.githubusercontent.com/u/98120468?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/JCarbon3",
+    "html_url": "https://github.com/JCarbon3",
+    "followers_url": "https://api.github.com/users/JCarbon3/followers",
+    "following_url": "https://api.github.com/users/JCarbon3/following{/other_user}",
+    "gists_url": "https://api.github.com/users/JCarbon3/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/JCarbon3/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/JCarbon3/subscriptions",
+    "organizations_url": "https://api.github.com/users/JCarbon3/orgs",
+    "repos_url": "https://api.github.com/users/JCarbon3/repos",
+    "events_url": "https://api.github.com/users/JCarbon3/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/JCarbon3/received_events",
+    "type": "User",
+    "site_admin": false
+    },
+    "committer": {
+    "login": "JCarbon3",
+    "id": 98120468,
+    "node_id": "U_kgDOBdkzFA",
+    "avatar_url": "https://avatars.githubusercontent.com/u/98120468?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/JCarbon3",
+    "html_url": "https://github.com/JCarbon3",
+    "followers_url": "https://api.github.com/users/JCarbon3/followers",
+    "following_url": "https://api.github.com/users/JCarbon3/following{/other_user}",
+    "gists_url": "https://api.github.com/users/JCarbon3/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/JCarbon3/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/JCarbon3/subscriptions",
+    "organizations_url": "https://api.github.com/users/JCarbon3/orgs",
+    "repos_url": "https://api.github.com/users/JCarbon3/repos",
+    "events_url": "https://api.github.com/users/JCarbon3/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/JCarbon3/received_events",
+    "type": "User",
+    "site_admin": false
+    },
+    "parents": [
+    {
+    "sha": "b817df7a59647d4a4e3b3d2bf134a9d6df15800e",
+    "url": "https://api.github.com/repos/JCarbon3/SSW-567/commits/b817df7a59647d4a4e3b3d2bf134a9d6df15800e",
+    "html_url": "https://github.com/JCarbon3/SSW-567/commit/b817df7a59647d4a4e3b3d2bf134a9d6df15800e"
+    }
+    ]
+    },
+    {
+    "sha": "b817df7a59647d4a4e3b3d2bf134a9d6df15800e",
+    "node_id": "C_kwDOH9GbstoAKGI4MTdkZjdhNTk2NDdkNGE0ZTNiM2QyYmYxMzRhOWQ2ZGYxNTgwMGU",
+    "commit": {
+    "author": {
+    "name": "Joseph",
+    "email": "Jcarbon3@stevens.edu",
+    "date": "2022-09-22T00:16:35Z"
+    },
+    "committer": {
+    "name": "Joseph",
+    "email": "Jcarbon3@stevens.edu",
+    "date": "2022-09-22T00:16:35Z"
+    },
+    "message": "add triangle code",
+    "tree": {
+    "sha": "60c0012b9cf0e3da22c9e581f753b098972e414d",
+    "url": "https://api.github.com/repos/JCarbon3/SSW-567/git/trees/60c0012b9cf0e3da22c9e581f753b098972e414d"
+    },
+    "url": "https://api.github.com/repos/JCarbon3/SSW-567/git/commits/b817df7a59647d4a4e3b3d2bf134a9d6df15800e",
+    "comment_count": 0,
+    "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+    }
+    },
+    "url": "https://api.github.com/repos/JCarbon3/SSW-567/commits/b817df7a59647d4a4e3b3d2bf134a9d6df15800e",
+    "html_url": "https://github.com/JCarbon3/SSW-567/commit/b817df7a59647d4a4e3b3d2bf134a9d6df15800e",
+    "comments_url": "https://api.github.com/repos/JCarbon3/SSW-567/commits/b817df7a59647d4a4e3b3d2bf134a9d6df15800e/comments",
+    "author": {
+    "login": "JCarbon3",
+    "id": 98120468,
+    "node_id": "U_kgDOBdkzFA",
+    "avatar_url": "https://avatars.githubusercontent.com/u/98120468?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/JCarbon3",
+    "html_url": "https://github.com/JCarbon3",
+    "followers_url": "https://api.github.com/users/JCarbon3/followers",
+    "following_url": "https://api.github.com/users/JCarbon3/following{/other_user}",
+    "gists_url": "https://api.github.com/users/JCarbon3/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/JCarbon3/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/JCarbon3/subscriptions",
+    "organizations_url": "https://api.github.com/users/JCarbon3/orgs",
+    "repos_url": "https://api.github.com/users/JCarbon3/repos",
+    "events_url": "https://api.github.com/users/JCarbon3/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/JCarbon3/received_events",
+    "type": "User",
+    "site_admin": false
+    },
+    "committer": {
+    "login": "JCarbon3",
+    "id": 98120468,
+    "node_id": "U_kgDOBdkzFA",
+    "avatar_url": "https://avatars.githubusercontent.com/u/98120468?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/JCarbon3",
+    "html_url": "https://github.com/JCarbon3",
+    "followers_url": "https://api.github.com/users/JCarbon3/followers",
+    "following_url": "https://api.github.com/users/JCarbon3/following{/other_user}",
+    "gists_url": "https://api.github.com/users/JCarbon3/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/JCarbon3/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/JCarbon3/subscriptions",
+    "organizations_url": "https://api.github.com/users/JCarbon3/orgs",
+    "repos_url": "https://api.github.com/users/JCarbon3/repos",
+    "events_url": "https://api.github.com/users/JCarbon3/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/JCarbon3/received_events",
+    "type": "User",
+    "site_admin": false
+    },
+    "parents": [
+    {
+    "sha": "cc912c0ec82a9542988e4fa417f861dd71cd0fca",
+    "url": "https://api.github.com/repos/JCarbon3/SSW-567/commits/cc912c0ec82a9542988e4fa417f861dd71cd0fca",
+    "html_url": "https://github.com/JCarbon3/SSW-567/commit/cc912c0ec82a9542988e4fa417f861dd71cd0fca"
+    }
+    ]
+    },
+    {
+    "sha": "cc912c0ec82a9542988e4fa417f861dd71cd0fca",
+    "node_id": "C_kwDOH9GbstoAKGNjOTEyYzBlYzgyYTk1NDI5ODhlNGZhNDE3Zjg2MWRkNzFjZDBmY2E",
+    "commit": {
+    "author": {
+    "name": "JCarbon3",
+    "email": "98120468+JCarbon3@users.noreply.github.com",
+    "date": "2022-09-22T00:13:41Z"
+    },
+    "committer": {
+    "name": "GitHub",
+    "email": "noreply@github.com",
+    "date": "2022-09-22T00:13:41Z"
+    },
+    "message": "Create README.md",
+    "tree": {
+    "sha": "b8d81e95e61fd2180364b41cc186d699ff520adf",
+    "url": "https://api.github.com/repos/JCarbon3/SSW-567/git/trees/b8d81e95e61fd2180364b41cc186d699ff520adf"
+    },
+    "url": "https://api.github.com/repos/JCarbon3/SSW-567/git/commits/cc912c0ec82a9542988e4fa417f861dd71cd0fca",
+    "comment_count": 0,
+    "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJjK6i1CRBK7hj4Ov3rIwAA47UIACvPIm2h/BmaY/FrWqkS6hie\nLm6HANXOmH1OR1SaRNB/w+Y0vI64UpWgSDInR8u79Eya4+GDLjwVN4awMwmIcjsa\ndtfg4vZuaq4umPGv73R2DpPeG1R4DIkBT+HrmmI/+7ZOpSUd3HY785YX0VlfbFQW\ni48BeMiPN4++iJcLdTbGJRMt/E+dH1RGWu7Opb90wJNVeXzu/s9sAi2llPfJvvH+\nor+tmOEmX5UN7ei0wVtQLW4+wCZyjWEmHIYN2KWmINicKOdv5/Il13gTSo3U6rn9\nPmp6Cvsqeq8j6iyjinIboa2LHHwGfx4XI1v4L92q092VQWKvlEPGxJs4ePmS1YU=\n=8YDu\n-----END PGP SIGNATURE-----\n",
+    "payload": "tree b8d81e95e61fd2180364b41cc186d699ff520adf\nparent d62e54d3bbdac07220edb648d8a80ae80224dd98\nauthor JCarbon3 <98120468+JCarbon3@users.noreply.github.com> 1663805621 -0400\ncommitter GitHub <noreply@github.com> 1663805621 -0400\n\nCreate README.md"
+    }
+    },
+    "url": "https://api.github.com/repos/JCarbon3/SSW-567/commits/cc912c0ec82a9542988e4fa417f861dd71cd0fca",
+    "html_url": "https://github.com/JCarbon3/SSW-567/commit/cc912c0ec82a9542988e4fa417f861dd71cd0fca",
+    "comments_url": "https://api.github.com/repos/JCarbon3/SSW-567/commits/cc912c0ec82a9542988e4fa417f861dd71cd0fca/comments",
+    "author": {
+    "login": "JCarbon3",
+    "id": 98120468,
+    "node_id": "U_kgDOBdkzFA",
+    "avatar_url": "https://avatars.githubusercontent.com/u/98120468?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/JCarbon3",
+    "html_url": "https://github.com/JCarbon3",
+    "followers_url": "https://api.github.com/users/JCarbon3/followers",
+    "following_url": "https://api.github.com/users/JCarbon3/following{/other_user}",
+    "gists_url": "https://api.github.com/users/JCarbon3/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/JCarbon3/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/JCarbon3/subscriptions",
+    "organizations_url": "https://api.github.com/users/JCarbon3/orgs",
+    "repos_url": "https://api.github.com/users/JCarbon3/repos",
+    "events_url": "https://api.github.com/users/JCarbon3/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/JCarbon3/received_events",
+    "type": "User",
+    "site_admin": false
+    },
+    "committer": {
+    "login": "web-flow",
+    "id": 19864447,
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/web-flow",
+    "html_url": "https://github.com/web-flow",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "type": "User",
+    "site_admin": false
+    },
+    "parents": [
+    {
+    "sha": "d62e54d3bbdac07220edb648d8a80ae80224dd98",
+    "url": "https://api.github.com/repos/JCarbon3/SSW-567/commits/d62e54d3bbdac07220edb648d8a80ae80224dd98",
+    "html_url": "https://github.com/JCarbon3/SSW-567/commit/d62e54d3bbdac07220edb648d8a80ae80224dd98"
+    }
+    ]
+    },
+    {
+    "sha": "d62e54d3bbdac07220edb648d8a80ae80224dd98",
+    "node_id": "C_kwDOH9GbstoAKGQ2MmU1NGQzYmJkYWMwNzIyMGVkYjY0OGQ4YTgwYWU4MDIyNGRkOTg",
+    "commit": {
+    "author": {
+    "name": "Joseph",
+    "email": "Jcarbon3@stevens.edu",
+    "date": "2022-09-22T00:13:03Z"
+    },
+    "committer": {
+    "name": "Joseph",
+    "email": "Jcarbon3@stevens.edu",
+    "date": "2022-09-22T00:13:03Z"
+    },
+    "message": "Created folder for HW-02a with provided files.",
+    "tree": {
+    "sha": "b82e06fc15d62f1268b47f76a1b2880ba1eae08d",
+    "url": "https://api.github.com/repos/JCarbon3/SSW-567/git/trees/b82e06fc15d62f1268b47f76a1b2880ba1eae08d"
+    },
+    "url": "https://api.github.com/repos/JCarbon3/SSW-567/git/commits/d62e54d3bbdac07220edb648d8a80ae80224dd98",
+    "comment_count": 0,
+    "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+    }
+    },
+    "url": "https://api.github.com/repos/JCarbon3/SSW-567/commits/d62e54d3bbdac07220edb648d8a80ae80224dd98",
+    "html_url": "https://github.com/JCarbon3/SSW-567/commit/d62e54d3bbdac07220edb648d8a80ae80224dd98",
+    "comments_url": "https://api.github.com/repos/JCarbon3/SSW-567/commits/d62e54d3bbdac07220edb648d8a80ae80224dd98/comments",
+    "author": {
+    "login": "JCarbon3",
+    "id": 98120468,
+    "node_id": "U_kgDOBdkzFA",
+    "avatar_url": "https://avatars.githubusercontent.com/u/98120468?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/JCarbon3",
+    "html_url": "https://github.com/JCarbon3",
+    "followers_url": "https://api.github.com/users/JCarbon3/followers",
+    "following_url": "https://api.github.com/users/JCarbon3/following{/other_user}",
+    "gists_url": "https://api.github.com/users/JCarbon3/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/JCarbon3/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/JCarbon3/subscriptions",
+    "organizations_url": "https://api.github.com/users/JCarbon3/orgs",
+    "repos_url": "https://api.github.com/users/JCarbon3/repos",
+    "events_url": "https://api.github.com/users/JCarbon3/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/JCarbon3/received_events",
+    "type": "User",
+    "site_admin": false
+    },
+    "committer": {
+    "login": "JCarbon3",
+    "id": 98120468,
+    "node_id": "U_kgDOBdkzFA",
+    "avatar_url": "https://avatars.githubusercontent.com/u/98120468?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/JCarbon3",
+    "html_url": "https://github.com/JCarbon3",
+    "followers_url": "https://api.github.com/users/JCarbon3/followers",
+    "following_url": "https://api.github.com/users/JCarbon3/following{/other_user}",
+    "gists_url": "https://api.github.com/users/JCarbon3/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/JCarbon3/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/JCarbon3/subscriptions",
+    "organizations_url": "https://api.github.com/users/JCarbon3/orgs",
+    "repos_url": "https://api.github.com/users/JCarbon3/repos",
+    "events_url": "https://api.github.com/users/JCarbon3/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/JCarbon3/received_events",
+    "type": "User",
+    "site_admin": false
+    },
+    "parents": [
+    {
+    "sha": "f0f101ed62447f036a0fcc72541c6b8ae43810a6",
+    "url": "https://api.github.com/repos/JCarbon3/SSW-567/commits/f0f101ed62447f036a0fcc72541c6b8ae43810a6",
+    "html_url": "https://github.com/JCarbon3/SSW-567/commit/f0f101ed62447f036a0fcc72541c6b8ae43810a6"
+    }
+    ]
+    },
+    {
+    "sha": "f0f101ed62447f036a0fcc72541c6b8ae43810a6",
+    "node_id": "C_kwDOH9GbstoAKGYwZjEwMWVkNjI0NDdmMDM2YTBmY2M3MjU0MWM2YjhhZTQzODEwYTY",
+    "commit": {
+    "author": {
+    "name": "Joseph",
+    "email": "Jcarbon3@stevens.edu",
+    "date": "2022-09-14T23:06:58Z"
+    },
+    "committer": {
+    "name": "Joseph",
+    "email": "Jcarbon3@stevens.edu",
+    "date": "2022-09-14T23:06:58Z"
+    },
+    "message": "Added HW01",
+    "tree": {
+    "sha": "38738681e4547090465df421dd7b26af3b3de598",
+    "url": "https://api.github.com/repos/JCarbon3/SSW-567/git/trees/38738681e4547090465df421dd7b26af3b3de598"
+    },
+    "url": "https://api.github.com/repos/JCarbon3/SSW-567/git/commits/f0f101ed62447f036a0fcc72541c6b8ae43810a6",
+    "comment_count": 0,
+    "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+    }
+    },
+    "url": "https://api.github.com/repos/JCarbon3/SSW-567/commits/f0f101ed62447f036a0fcc72541c6b8ae43810a6",
+    "html_url": "https://github.com/JCarbon3/SSW-567/commit/f0f101ed62447f036a0fcc72541c6b8ae43810a6",
+    "comments_url": "https://api.github.com/repos/JCarbon3/SSW-567/commits/f0f101ed62447f036a0fcc72541c6b8ae43810a6/comments",
+    "author": {
+    "login": "JCarbon3",
+    "id": 98120468,
+    "node_id": "U_kgDOBdkzFA",
+    "avatar_url": "https://avatars.githubusercontent.com/u/98120468?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/JCarbon3",
+    "html_url": "https://github.com/JCarbon3",
+    "followers_url": "https://api.github.com/users/JCarbon3/followers",
+    "following_url": "https://api.github.com/users/JCarbon3/following{/other_user}",
+    "gists_url": "https://api.github.com/users/JCarbon3/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/JCarbon3/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/JCarbon3/subscriptions",
+    "organizations_url": "https://api.github.com/users/JCarbon3/orgs",
+    "repos_url": "https://api.github.com/users/JCarbon3/repos",
+    "events_url": "https://api.github.com/users/JCarbon3/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/JCarbon3/received_events",
+    "type": "User",
+    "site_admin": false
+    },
+    "committer": {
+    "login": "JCarbon3",
+    "id": 98120468,
+    "node_id": "U_kgDOBdkzFA",
+    "avatar_url": "https://avatars.githubusercontent.com/u/98120468?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/JCarbon3",
+    "html_url": "https://github.com/JCarbon3",
+    "followers_url": "https://api.github.com/users/JCarbon3/followers",
+    "following_url": "https://api.github.com/users/JCarbon3/following{/other_user}",
+    "gists_url": "https://api.github.com/users/JCarbon3/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/JCarbon3/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/JCarbon3/subscriptions",
+    "organizations_url": "https://api.github.com/users/JCarbon3/orgs",
+    "repos_url": "https://api.github.com/users/JCarbon3/repos",
+    "events_url": "https://api.github.com/users/JCarbon3/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/JCarbon3/received_events",
+    "type": "User",
+    "site_admin": false
+    },
+    "parents": [
+    {
+    "sha": "ad5de4275cd3f0d80bec840b65a1d55f31ae932a",
+    "url": "https://api.github.com/repos/JCarbon3/SSW-567/commits/ad5de4275cd3f0d80bec840b65a1d55f31ae932a",
+    "html_url": "https://github.com/JCarbon3/SSW-567/commit/ad5de4275cd3f0d80bec840b65a1d55f31ae932a"
+    }
+    ]
+    },
+    {
+    "sha": "ad5de4275cd3f0d80bec840b65a1d55f31ae932a",
+    "node_id": "C_kwDOH9GbstoAKGFkNWRlNDI3NWNkM2YwZDgwYmVjODQwYjY1YTFkNTVmMzFhZTkzMmE",
+    "commit": {
+    "author": {
+    "name": "Joseph",
+    "email": "Jcarbon3@stevens.edu",
+    "date": "2022-09-07T15:57:49Z"
+    },
+    "committer": {
+    "name": "Joseph",
+    "email": "Jcarbon3@stevens.edu",
+    "date": "2022-09-07T15:57:49Z"
+    },
+    "message": "Merge branch 'master'",
+    "tree": {
+    "sha": "747bb133589f976f01f60e76bc770beb5afec4b5",
+    "url": "https://api.github.com/repos/JCarbon3/SSW-567/git/trees/747bb133589f976f01f60e76bc770beb5afec4b5"
+    },
+    "url": "https://api.github.com/repos/JCarbon3/SSW-567/git/commits/ad5de4275cd3f0d80bec840b65a1d55f31ae932a",
+    "comment_count": 0,
+    "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+    }
+    },
+    "url": "https://api.github.com/repos/JCarbon3/SSW-567/commits/ad5de4275cd3f0d80bec840b65a1d55f31ae932a",
+    "html_url": "https://github.com/JCarbon3/SSW-567/commit/ad5de4275cd3f0d80bec840b65a1d55f31ae932a",
+    "comments_url": "https://api.github.com/repos/JCarbon3/SSW-567/commits/ad5de4275cd3f0d80bec840b65a1d55f31ae932a/comments",
+    "author": {
+    "login": "JCarbon3",
+    "id": 98120468,
+    "node_id": "U_kgDOBdkzFA",
+    "avatar_url": "https://avatars.githubusercontent.com/u/98120468?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/JCarbon3",
+    "html_url": "https://github.com/JCarbon3",
+    "followers_url": "https://api.github.com/users/JCarbon3/followers",
+    "following_url": "https://api.github.com/users/JCarbon3/following{/other_user}",
+    "gists_url": "https://api.github.com/users/JCarbon3/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/JCarbon3/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/JCarbon3/subscriptions",
+    "organizations_url": "https://api.github.com/users/JCarbon3/orgs",
+    "repos_url": "https://api.github.com/users/JCarbon3/repos",
+    "events_url": "https://api.github.com/users/JCarbon3/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/JCarbon3/received_events",
+    "type": "User",
+    "site_admin": false
+    },
+    "committer": {
+    "login": "JCarbon3",
+    "id": 98120468,
+    "node_id": "U_kgDOBdkzFA",
+    "avatar_url": "https://avatars.githubusercontent.com/u/98120468?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/JCarbon3",
+    "html_url": "https://github.com/JCarbon3",
+    "followers_url": "https://api.github.com/users/JCarbon3/followers",
+    "following_url": "https://api.github.com/users/JCarbon3/following{/other_user}",
+    "gists_url": "https://api.github.com/users/JCarbon3/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/JCarbon3/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/JCarbon3/subscriptions",
+    "organizations_url": "https://api.github.com/users/JCarbon3/orgs",
+    "repos_url": "https://api.github.com/users/JCarbon3/repos",
+    "events_url": "https://api.github.com/users/JCarbon3/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/JCarbon3/received_events",
+    "type": "User",
+    "site_admin": false
+    },
+    "parents": [
+    {
+    "sha": "dd8d8e0271e1db673f95795611cf361dcbb40600",
+    "url": "https://api.github.com/repos/JCarbon3/SSW-567/commits/dd8d8e0271e1db673f95795611cf361dcbb40600",
+    "html_url": "https://github.com/JCarbon3/SSW-567/commit/dd8d8e0271e1db673f95795611cf361dcbb40600"
+    },
+    {
+    "sha": "81426ca5536e69d69a991e4adfc291593038eaa3",
+    "url": "https://api.github.com/repos/JCarbon3/SSW-567/commits/81426ca5536e69d69a991e4adfc291593038eaa3",
+    "html_url": "https://github.com/JCarbon3/SSW-567/commit/81426ca5536e69d69a991e4adfc291593038eaa3"
+    }
+    ]
+    },
+    {
+    "sha": "81426ca5536e69d69a991e4adfc291593038eaa3",
+    "node_id": "C_kwDOH9GbstoAKDgxNDI2Y2E1NTM2ZTY5ZDY5YTk5MWU0YWRmYzI5MTU5MzAzOGVhYTM",
+    "commit": {
+    "author": {
+    "name": "Joseph",
+    "email": "Jcarbon3@stevens.edu",
+    "date": "2022-09-07T15:47:18Z"
+    },
+    "committer": {
+    "name": "Joseph",
+    "email": "Jcarbon3@stevens.edu",
+    "date": "2022-09-07T15:47:18Z"
+    },
+    "message": "Hello world",
+    "tree": {
+    "sha": "77f23fe7e7cc3ebc1efabc12e8650a1ccc461a32",
+    "url": "https://api.github.com/repos/JCarbon3/SSW-567/git/trees/77f23fe7e7cc3ebc1efabc12e8650a1ccc461a32"
+    },
+    "url": "https://api.github.com/repos/JCarbon3/SSW-567/git/commits/81426ca5536e69d69a991e4adfc291593038eaa3",
+    "comment_count": 0,
+    "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+    }
+    },
+    "url": "https://api.github.com/repos/JCarbon3/SSW-567/commits/81426ca5536e69d69a991e4adfc291593038eaa3",
+    "html_url": "https://github.com/JCarbon3/SSW-567/commit/81426ca5536e69d69a991e4adfc291593038eaa3",
+    "comments_url": "https://api.github.com/repos/JCarbon3/SSW-567/commits/81426ca5536e69d69a991e4adfc291593038eaa3/comments",
+    "author": {
+    "login": "JCarbon3",
+    "id": 98120468,
+    "node_id": "U_kgDOBdkzFA",
+    "avatar_url": "https://avatars.githubusercontent.com/u/98120468?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/JCarbon3",
+    "html_url": "https://github.com/JCarbon3",
+    "followers_url": "https://api.github.com/users/JCarbon3/followers",
+    "following_url": "https://api.github.com/users/JCarbon3/following{/other_user}",
+    "gists_url": "https://api.github.com/users/JCarbon3/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/JCarbon3/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/JCarbon3/subscriptions",
+    "organizations_url": "https://api.github.com/users/JCarbon3/orgs",
+    "repos_url": "https://api.github.com/users/JCarbon3/repos",
+    "events_url": "https://api.github.com/users/JCarbon3/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/JCarbon3/received_events",
+    "type": "User",
+    "site_admin": false
+    },
+    "committer": {
+    "login": "JCarbon3",
+    "id": 98120468,
+    "node_id": "U_kgDOBdkzFA",
+    "avatar_url": "https://avatars.githubusercontent.com/u/98120468?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/JCarbon3",
+    "html_url": "https://github.com/JCarbon3",
+    "followers_url": "https://api.github.com/users/JCarbon3/followers",
+    "following_url": "https://api.github.com/users/JCarbon3/following{/other_user}",
+    "gists_url": "https://api.github.com/users/JCarbon3/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/JCarbon3/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/JCarbon3/subscriptions",
+    "organizations_url": "https://api.github.com/users/JCarbon3/orgs",
+    "repos_url": "https://api.github.com/users/JCarbon3/repos",
+    "events_url": "https://api.github.com/users/JCarbon3/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/JCarbon3/received_events",
+    "type": "User",
+    "site_admin": false
+    },
+    "parents": [ ]
+    },
+    {
+    "sha": "dd8d8e0271e1db673f95795611cf361dcbb40600",
+    "node_id": "C_kwDOH9GbstoAKGRkOGQ4ZTAyNzFlMWRiNjczZjk1Nzk1NjExY2YzNjFkY2JiNDA2MDA",
+    "commit": {
+    "author": {
+    "name": "JCarbon3",
+    "email": "98120468+JCarbon3@users.noreply.github.com",
+    "date": "2022-09-07T15:39:25Z"
+    },
+    "committer": {
+    "name": "GitHub",
+    "email": "noreply@github.com",
+    "date": "2022-09-07T15:39:25Z"
+    },
+    "message": "Initial commit",
+    "tree": {
+    "sha": "50b11162fd3072a26d6fb2397e38ceea53649d7b",
+    "url": "https://api.github.com/repos/JCarbon3/SSW-567/git/trees/50b11162fd3072a26d6fb2397e38ceea53649d7b"
+    },
+    "url": "https://api.github.com/repos/JCarbon3/SSW-567/git/commits/dd8d8e0271e1db673f95795611cf361dcbb40600",
+    "comment_count": 0,
+    "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJjGLstCRBK7hj4Ov3rIwAAvPkIAGY41Fa76YRSc9nVu30x+Mw8\notT/d92Ex2E78iX6mMBTsI8DrwYe0/Y+cAfCqXPdbWeIacpBiJrpgRjjvtMgFFa5\nF5ukdZZvAbpS6JBz1ky9FOasTDCqFbSZRe9lMRtph7/bY5ZSyqnGyRMzQRAMV2pA\nIAm6iuD92b5ORXDHByUuuSslV6l2ugX1PNtPVS40njAlhvcZHH7ySsYiFpAWdWWV\nk3lkOVmxuyuFj8u/tvknrjSMGis3C2Ja+vsQ1gksM/yqew2Wl4OHq8K4nEdAt7u1\nBoT/ZEYZD7EXmqqtSHD4/Ny1gXypgBgUOdCtiNMR3WXE7PiVWPJu3LX0agGEQpQ=\n=j6gk\n-----END PGP SIGNATURE-----\n",
+    "payload": "tree 50b11162fd3072a26d6fb2397e38ceea53649d7b\nauthor JCarbon3 <98120468+JCarbon3@users.noreply.github.com> 1662565165 -0400\ncommitter GitHub <noreply@github.com> 1662565165 -0400\n\nInitial commit"
+    }
+    },
+    "url": "https://api.github.com/repos/JCarbon3/SSW-567/commits/dd8d8e0271e1db673f95795611cf361dcbb40600",
+    "html_url": "https://github.com/JCarbon3/SSW-567/commit/dd8d8e0271e1db673f95795611cf361dcbb40600",
+    "comments_url": "https://api.github.com/repos/JCarbon3/SSW-567/commits/dd8d8e0271e1db673f95795611cf361dcbb40600/comments",
+    "author": {
+    "login": "JCarbon3",
+    "id": 98120468,
+    "node_id": "U_kgDOBdkzFA",
+    "avatar_url": "https://avatars.githubusercontent.com/u/98120468?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/JCarbon3",
+    "html_url": "https://github.com/JCarbon3",
+    "followers_url": "https://api.github.com/users/JCarbon3/followers",
+    "following_url": "https://api.github.com/users/JCarbon3/following{/other_user}",
+    "gists_url": "https://api.github.com/users/JCarbon3/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/JCarbon3/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/JCarbon3/subscriptions",
+    "organizations_url": "https://api.github.com/users/JCarbon3/orgs",
+    "repos_url": "https://api.github.com/users/JCarbon3/repos",
+    "events_url": "https://api.github.com/users/JCarbon3/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/JCarbon3/received_events",
+    "type": "User",
+    "site_admin": false
+    },
+    "committer": {
+    "login": "web-flow",
+    "id": 19864447,
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/web-flow",
+    "html_url": "https://github.com/web-flow",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "type": "User",
+    "site_admin": false
+    },
+    "parents": [ ]
+    }
+    ]
