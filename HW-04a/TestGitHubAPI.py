@@ -10,9 +10,9 @@ class FakeResponse:
         return self.json_data
 
 switcher = {
-    'https://api.github.com/users/JCarbon3/repos': 'JCarbon3_Info.json',
-    'https://api.github.com/users/JCarbon17/repos': 'InvalidUser.json',
-    'https://api.github.com/repos/JCarbon3/SSW-567/commits': 'SSW-567_Info.json'   
+    'https://api.github.com/users/JCarbon3/repos': 'SSW-567/HW-04a/JCarbon3_Info.json',
+    'https://api.github.com/users/JCarbon17/repos': 'SSW-567/HW-04a/InvalidUser.json',
+    'https://api.github.com/repos/JCarbon3/SSW-567/commits': 'SSW-567/HW-04a/SSW-567_Info.json'   
 }
 
 def mocked_requests_get(*args):
